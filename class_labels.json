@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Amok",
+    "calories": 453,
+    "carbs": 22,
+    "fat": 9,
+    "protein": 38
+  },
+  {
+    "name": "Apple",
+    "calories": 30.55,
+    "carbs": 6.08,
+    "fat": 0.23,
+    "protein": 0.57
+  },
+  {
+    "name": "BorBor",
+    "calories": 342.05,
+    "carbs": 51.63,
+    "fat": 0.1,
+    "protein": 3.99
+  },
+  {
+    "name": "Cha Loc Lac",
+    "calories": 338.7,
+    "carbs": 11.42,
+    "fat": 4.4,
+    "protein": 30.93
+  },
+  {
+    "name": "Chicken Rice",
+    "calories": 216.84,
+    "carbs": 11.94,
+    "fat": 2.48,
+    "protein": 48.01
+  },
+  {
+    "name": "Lemongrass BBQ Beef Skewers",
+    "calories": 611.65,
+    "carbs": 13.43,
+    "fat": 3.5,
+    "protein": 88.49
+  },
+  {
+    "name": "Lort Cha",
+    "calories": 216.84,
+    "carbs": 11.94,
+    "fat": 2.48,
+    "protein": 48.01
+  },
+  {
+    "name": "Nom Banh Chok",
+    "calories": 523.31,
+    "carbs": 29.95,
+    "fat": 1.73,
+    "protein": 8.11
+  },
+  {
+    "name": "Omelette Rice with Pork",
+    "calories": 275.08,
+    "carbs": 19.01,
+    "fat": 10.12,
+    "protein": 4.96
+  },
+  {
+    "name": "Orange Fruit",
+    "calories": 216.84,
+    "carbs": 11.94,
+    "fat": 2.48,
+    "protein": 48.01
+  },
+  {
+    "name": "Red Curry Coconut Wings",
+    "calories": 789.54,
+    "carbs": 38.59,
+    "fat": 3.18,
+    "protein": 19.66
+  },
+  {
+    "name": "Samlar KorKour",
+    "calories": 974.73,
+    "carbs": 166.61,
+    "fat": 96.03,
+    "protein": 15.44
+  }
+]
